@@ -9,11 +9,11 @@ const RightSideNav = () => {
     return (
         <div className="p-4 space-y-3 mb-6">
             <h2 className="text-3xl">Overall Event</h2>
-        <img src={wedding1} alt="" />
-        <img className='w-full' src={wedding2} alt="" />
-        <img className='w-full' src={wedding3} alt="" />
-        <img className='w-full' src={wedding4} alt="" />
-        <img className='w-full' src={wedding5} alt="" />
+        <img className='w-full h-full' src={wedding1} alt="" />
+        <img className='w-full h-full' src={wedding2} alt="" />
+        <img className='w-full h-full' src={wedding3} alt="" />
+        <img className='w-full h-full' src={wedding4} alt="" />
+        <img className='w-full h-full' src={wedding5} alt="" />
         <img src={wedding6} alt="" />
         </div>
     );

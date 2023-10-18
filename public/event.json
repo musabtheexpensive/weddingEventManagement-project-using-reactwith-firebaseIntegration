@@ -1,44 +1,50 @@
 [
-    {
+  {
       "id": 1,
-      "image_url": "https://example.com/wedding1.jpg",
-      "description": "Elegant Wedding Ceremony",
+      "title": "Elegant Wedding Ceremony",
+      "image_url": "https://i.ibb.co/4SbqsTF/wedding1.jpg",
+      "description": "Experience elegance in our enchanting venue. A celebration of love in a sophisticated setting.",
       "price": "$5000",
       "button_text": "Book Now"
-    },
-    {
+  },
+  {
       "id": 2,
-      "image_url": "https://example.com/wedding2.jpg",
-      "description": "Rustic Outdoor Wedding",
+      "title": "Rustic Outdoor Wedding",
+      "image_url": "https://i.ibb.co/c6JkWHR/wedding2.webp",
+      "description": "Rustic charm meets natural beauty. A romantic outdoor event under the open sky.",
       "price": "$4500",
       "button_text": "Book Now"
-    },
-    {
+  },
+  {
       "id": 3,
-      "image_url": "https://example.com/wedding3.jpg",
-      "description": "Luxurious Ballroom Wedding",
+      "title": "Luxurious Ballroom Wedding",
+      "image_url": "https://i.ibb.co/r0ZP5VS/wedding3.jpg",
+      "description": "Indulge in grandeur in our magnificent ballroom. Your dream wedding in a luxurious space.",
       "price": "$7000",
       "button_text": "Book Now"
-    },
-    {
+  },
+  {
       "id": 4,
-      "image_url": "https://example.com/wedding4.jpg",
-      "description": "Intimate Beachfront Wedding",
+      "title": "Intimate Beachfront Wedding",
+      "image_url": "https://i.ibb.co/nfCzV7R/wedding4.jpg",
+      "description": "Love by the waves with a perfect sunset view. A romantic beachfront wedding experience.",
       "price": "$5500",
       "button_text": "Book Now"
-    },
-    {
+  },
+  {
       "id": 5,
-      "image_url": "https://example.com/wedding5.jpg",
-      "description": "Vintage Garden Wedding",
+      "title": "Vintage Garden Wedding",
+      "image_url": "https://i.ibb.co/nsP6CnH/wedding5.jpg",
+      "description": "Step into a fairytale with blooming flowers and rustic charm. Your whimsical garden wedding.",
       "price": "$4800",
       "button_text": "Book Now"
-    },
-    {
+  },
+  {
       "id": 6,
-      "image_url": "https://example.com/wedding6.jpg",
-      "description": "Chic Urban Wedding",
+      "title": "Chic Urban Wedding",
+      "image_url": "https://i.ibb.co/By6kRrZ/wedding5.jpg",
+      "description": "Embrace modern elegance in our chic urban venue. A stylish wedding in a cityscape setting.",
       "price": "$6000",
       "button_text": "Book Now"
-    }
-  ]
+  }
+]

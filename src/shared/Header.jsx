@@ -7,7 +7,7 @@ const Header = () => {
       <div className="hero-overlay bg-opacity-60"></div>
       <div className="hero-content text-center text-neutral-content">
         <div className="max-w-md">
-          <h1 className="mb-5 text-5xl font-bold">LifeLine</h1>
+          <h1 className="text-4xl md:text-6xl border-b-4 border-r-4  border-yellow-500 font-bold bg-gradient-to-r from-rose-500 to-indigo-500 text-transparent bg-clip-text animate-spin">LifeLine</h1>
         </div>
       </div>
     </div>
