@@ -4,6 +4,7 @@ import Navbar from "../../shared/Navbar";
 import RightSideNav from "../../shared/RightSideNav";
 import Marque from "./Marque";
 import EventCard from "./EventCard";
+import Footer from "../Footer/Footer";
 
 const Home = () => {
   const event = useLoaderData();
@@ -29,7 +30,10 @@ const Home = () => {
           <RightSideNav></RightSideNav>
         </div>
       </div>
+     
+      <Footer></Footer>
     </div>
+   
   );
 };
 

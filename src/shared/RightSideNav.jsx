@@ -8,7 +8,9 @@ import wedding6 from '../assets/wedding6.jpeg';
 const RightSideNav = () => {
     return (
         <div className="p-4 space-y-3 mb-6">
-            <h2 className="text-3xl">Overall Event</h2>
+            <h2 className="text-5xl font-openSans font-bold text-orange-400">Overall Event</h2>
+            <hr />
+            <br />
         <img className='w-full h-full' src={wedding1} alt="" />
         <img className='w-full h-full' src={wedding2} alt="" />
         <img className='w-full h-full' src={wedding3} alt="" />
