@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "image_url": "https://example.com/wedding1.jpg",
+      "description": "Elegant Wedding Ceremony",
+      "price": "$5000",
+      "button_text": "Book Now"
+    },
+    {
+      "id": 2,
+      "image_url": "https://example.com/wedding2.jpg",
+      "description": "Rustic Outdoor Wedding",
+      "price": "$4500",
+      "button_text": "Book Now"
+    },
+    {
+      "id": 3,
+      "image_url": "https://example.com/wedding3.jpg",
+      "description": "Luxurious Ballroom Wedding",
+      "price": "$7000",
+      "button_text": "Book Now"
+    },
+    {
+      "id": 4,
+      "image_url": "https://example.com/wedding4.jpg",
+      "description": "Intimate Beachfront Wedding",
+      "price": "$5500",
+      "button_text": "Book Now"
+    },
+    {
+      "id": 5,
+      "image_url": "https://example.com/wedding5.jpg",
+      "description": "Vintage Garden Wedding",
+      "price": "$4800",
+      "button_text": "Book Now"
+    },
+    {
+      "id": 6,
+      "image_url": "https://example.com/wedding6.jpg",
+      "description": "Chic Urban Wedding",
+      "price": "$6000",
+      "button_text": "Book Now"
+    }
+  ]
